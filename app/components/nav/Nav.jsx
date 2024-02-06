@@ -3,8 +3,8 @@ import React from "react";
 
 function Nav() {
   return (
-    <div className="bg-red-400 flex justify-between items-center px-5">
-      <Image src="/images/care.png" alt="" width="80" height="80" />
+    <div className="bg-red-400 flex justify-between items-center px-5 min-h-[10vh]">
+      <Image src="/images/care.png" alt="" width="70" height="70" />
 
       <ul className="flex gap-3">
         <li>Home</li>
