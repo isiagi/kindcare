@@ -3,7 +3,7 @@ import React from "react";
 
 function Nav() {
   return (
-    <div className="bg-red-400 flex justify-between items-center px-5 min-h-[10vh]">
+    <div className="bg-gray-400 z-100 flex justify-between items-center px-5 min-h-[10vh] fixed w-full">
       <Image src="/images/care.png" alt="" width="70" height="70" />
 
       <ul className="flex gap-3">
