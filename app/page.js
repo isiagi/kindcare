@@ -1,6 +1,7 @@
 import Banner from "./components/banner/Banner";
 import Hero from "./components/hero/Hero";
 import HomeAbout from "./components/homeAbout/HomeAbout";
+import Testmonial from "./components/testmonial/Testmonial";
 import What from "./components/what/What";
 import Why from "./components/why/Why";
 
@@ -11,6 +12,7 @@ export default function Home() {
       <HomeAbout />
       <What />
       <Banner />
+      <Testmonial />
     </div>
   );
 }

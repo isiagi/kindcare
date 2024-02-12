@@ -5,7 +5,7 @@ function HomeAbout() {
     <div className="px-5 py-32 bg-[#F9F7F6]">
       <div className="flex justify-between flex-wrap">
         <div>
-          <h3 className="text-gray-600 font-semibold">About Us</h3>
+          <h3 className="text-gray-500 font-semibold">About Us</h3>
           <h2 className="text-4xl text-[#4A4C70] font-light max-w-[350px] py-5">
             <span className="font-semibold">Help is Our</span> Main Goal Ever
           </h2>
@@ -19,13 +19,13 @@ function HomeAbout() {
             grunion, garpike zebra danio king-of-the-salmon banjo catfish.
           </p>
 
-          <p className="py-5 text-gray-600">
+          <p className="py-5 text-gray-500">
             Sea chub demoiselle whalefish zebra lionfish mud cat pelican eel.
             Minnow snoek icefish velvet-belly shark, California halibut round
             stingray northern sea robin. Southern grayling trout-perch
           </p>
 
-          <p className="pb-20 text-gray-600">
+          <p className="pb-20 text-gray-500">
             Sharksucker sea toad candiru rocket danio tilefish stingray
             deepwater stingray Sacramento splittail, Canthigaster rostrata.
             Midshipman dartfish Modoc sucker, yellowtail kingfish basslet. Buri
