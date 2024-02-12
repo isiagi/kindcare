@@ -31,9 +31,9 @@ function Testmonial() {
     <div className="py-20">
       <div>
         <HeaderBanner
-          heading={"What Donation Holders say"}
-          subtitle={"We do it"}
-          subtitleText={"for all people"}
+          heading={"Testimonials"}
+          subtitle={"What People"}
+          subtitleText={"Says About Us"}
         />
       </div>
       <div className="pt-12">

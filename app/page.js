@@ -1,9 +1,9 @@
 import Banner from "./components/banner/Banner";
 import Hero from "./components/hero/Hero";
 import HomeAbout from "./components/homeAbout/HomeAbout";
+import Team from "./components/team/Team";
 import Testmonial from "./components/testmonial/Testmonial";
 import What from "./components/what/What";
-import Why from "./components/why/Why";
 
 export default function Home() {
   return (
@@ -13,6 +13,7 @@ export default function Home() {
       <What />
       <Banner />
       <Testmonial />
+      <Team />
     </div>
   );
 }
